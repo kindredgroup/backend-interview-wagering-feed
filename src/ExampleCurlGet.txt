@@ -1,0 +1,7 @@
+This is the CURL request to get the customer details.
+
+Replace the 'customerId' with that from the BetPlaced message and the 'candidateId' with your provided candidateId for your submission.
+
+curl -X GET "http://betfeedfdj25-dkfbamhzh5cdhxfs.australiaeast-01.azurewebsites.net/customer?customerId={customerId}&candidateId={candidateId}"
+
+A 404 (Unauthorized) response indicates your session has finished
