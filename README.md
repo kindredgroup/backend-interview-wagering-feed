@@ -1,2 +1,2 @@
 # backend-interview-wagering-feed
-The SourceCode we publicly distributeour coding exercise
+The SourceCode we publicly distribute our coding exercise
